@@ -63,3 +63,5 @@ Click on the "Permissions" tab and check everything for Tickets, Task and Knowle
 
 
 <h2>Configure Departments</h2>
+
+
