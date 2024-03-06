@@ -1,8 +1,7 @@
 # osticket-post-install
 
 <p align="center">
-<img src="![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/62d025a5-8c9a-406c-9575-31e63ba18950)
-" alt="osTicket login"/>
+<img src="![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/62d025a5-8c9a-406c-9575-31e63ba18950)" alt="osTicket login"/>
 </p>
 
 <h1>osticket-post-install</h1>
