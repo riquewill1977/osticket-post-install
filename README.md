@@ -35,18 +35,29 @@ This tutorial delineates the post-installation configuration procedures for osTi
 
 During this lab, we'll demontrate tasks from an Admin and an Agent. 
 
-When in the Admin Panel the top right should show "Agent Panel". 
+When in Admin Panel, the top right should show "Agent Panel". 
 
 ![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/8729be88-8e50-4448-a9eb-c003bd55d7ba)
 
-Click the "Agent Panel" to switch to the Agent Panel.
+Click the "Agent Panel" to switch to the Agent Panel which will then display "Admin Panel" to the top right. 
 
 ![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/8516e5bf-4eaa-40c2-bcd6-b29b69586295)
 
-From the Admin Panel click on the "Agents" tab and go to "Roles"
+Let's get started and created a Supreme Admin Role
+
+From the Admin Panel click on the "Agents" tab and go to "Roles" as shown in the below image.
 
 ![Screenshot 2024-03-05 235246](https://github.com/riquewill1977/osticket-post-install/assets/139101776/d6006cb3-c372-47dd-8e1f-5f6591214e72)
 
+Click on "Add New Role"
 
+![Screenshot 2024-03-06 003359](https://github.com/riquewill1977/osticket-post-install/assets/139101776/1df5acb4-c30c-40c1-b729-f168ad0f2c38)
 
+Name the agent "Supreme Admin"
+
+![Screenshot 2024-03-06 003723](https://github.com/riquewill1977/osticket-post-install/assets/139101776/008f2a6f-dddd-43ad-b914-d357a4de4e57)
+
+Click on the "Permissions" tab and check everything for Tickets, Task and Knowledgebase.
+
+![Screenshot 2024-03-06 003759](https://github.com/riquewill1977/osticket-post-install/assets/139101776/d90986d0-e3cf-4a35-b6b3-622ea3b86cae)
 
