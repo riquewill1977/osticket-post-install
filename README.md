@@ -57,7 +57,9 @@ Name the agent "Supreme Admin"
 
 ![Screenshot 2024-03-06 003723](https://github.com/riquewill1977/osticket-post-install/assets/139101776/008f2a6f-dddd-43ad-b914-d357a4de4e57)
 
-Click on the "Permissions" tab and check everything for Tickets, Task and Knowledgebase.
+Click on the "Permissions" tab and check everything for Tickets, Task and Knowledgebase. Click "add role" once complete.
 
 ![Screenshot 2024-03-06 003759](https://github.com/riquewill1977/osticket-post-install/assets/139101776/d90986d0-e3cf-4a35-b6b3-622ea3b86cae)
 
+
+<h2>Configure Departments</h2>
