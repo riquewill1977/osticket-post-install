@@ -64,4 +64,18 @@ Click on the "Permissions" tab and check everything for Tickets, Task and Knowle
 
 <h2>Configure Departments</h2>
 
+From the Agents tab, click on "Departments"
 
+![Screenshot 2024-03-06 131821](https://github.com/riquewill1977/osticket-post-install/assets/139101776/607ed733-1905-4f9a-8ded-af7949d78a32)
+
+Click on "Add New Department"
+
+![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/45eeac0e-aa40-47a5-bc75-0de4289ce4eb)
+
+Name the department "System Administrators" and click Create Dept
+
+![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/7d4ae94f-484c-4624-8ba2-352688537623)
+
+"System Administrators" should be now added to the list of Departments.
+
+![Screenshot 2024-03-06 140413](https://github.com/riquewill1977/osticket-post-install/assets/139101776/8ce34635-c177-46a6-ab7c-65f9990957bf)
