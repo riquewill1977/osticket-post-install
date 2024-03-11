@@ -23,7 +23,7 @@ This tutorial delineates the post-installation configuration procedures for osTi
 - Configure Departments
 - Configure Teams
 - Allow anyone to creat tickets
-- Configure Agents (workers)
+- Configure Agents (help desk professionals)
 - Configure Users (customers)
 - Configure SLA
 - Configure Help Topics
@@ -79,3 +79,49 @@ Name the department "System Administrators" and click Create Dept
 "System Administrators" should be now added to the list of Departments.
 
 ![Screenshot 2024-03-06 140413](https://github.com/riquewill1977/osticket-post-install/assets/139101776/8ce34635-c177-46a6-ab7c-65f9990957bf)
+
+<h2>Configure Teams</h2>
+
+Under the Agents tab click on Teams, then "Add New Team"
+
+![Screenshot 2024-03-06 143622](https://github.com/riquewill1977/osticket-post-install/assets/139101776/7351ea27-72fe-412e-9f35-61a0780231e7)
+
+We'll name this Team "Level II Support" and go over to the "Members" tab and add yourself to the team.
+
+![Screenshot 2024-03-06 150412](https://github.com/riquewill1977/osticket-post-install/assets/139101776/5e0321c5-e296-43cb-bc20-3312097bd25d)
+
+![Screenshot 2024-03-06 150439](https://github.com/riquewill1977/osticket-post-install/assets/139101776/e12038b8-7758-42a5-906e-1f780de82240)
+
+<h2>Allow anyone to created tickets</h2>
+
+From the Admins Panel got to the Settings > Users
+
+![Screenshot 2024-03-06 152750](https://github.com/riquewill1977/osticket-post-install/assets/139101776/28dbeddd-7a10-40d0-8e94-f478b24f28ee)
+
+Make sure "Require registration and login to create tickets" is unchecked. 
+
+![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/74aed40a-5db8-4780-b80f-c4c68aafa8c2)
+
+<h2>Configure Agents (help desk professionals)</h2>
+
+Let's create a coupble agents. From the Admin panel, go to the "Agents" tab and select "Agents". As we did with the others, click "Add New Agent"
+
+![Screenshot 2024-03-06 162912](https://github.com/riquewill1977/osticket-post-install/assets/139101776/b9de0362-324e-4a93-8588-a6ccab3d4505)
+
+Enter a First and Last name, email address and username. Click set password.
+
+![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/490a070f-e3c5-4a1e-9655-659fc5875b03)
+
+Uncheck "Send the agent a password reset email" and "Require password change at next login" If this were the real-world, we'll leave these checked to allow the user to reset create their password. Click "Set" when done.
+
+![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/5510a757-026e-40d1-a061-a1108f6021ab)
+
+
+
+
+
+
+
+
+
+
