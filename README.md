@@ -126,13 +126,13 @@ Next lets add Jane to the "Level II Support" Team we created earlier. Click on t
 
 We'll create a secondary Agent following the same steps.
 
-Name: John Doe
-Email Address: John.Doe@osticket.com
-Username: john.doe
-Access > Prmary Department > Support
-Access > Prmary Department > View Only
-Access > Extended Access > Support
-Create. 
+Name: John Doe<B />
+Email Address: John.Doe@osticket.com<B />
+Username: john.doe<B />
+Access > Prmary Department > Support<B />
+Access > Prmary Department > View Only<B />
+Access > Extended Access > Support<B />
+Create. <B />
 
 <h2>Configure Users (customers)</h2>
 
@@ -165,7 +165,7 @@ We'll add our SLA plans like below. Follow the steps to create the other 2 with 
 
 ![Screenshot 2024-03-12 155058](https://github.com/riquewill1977/osticket-post-install/assets/139101776/bc8df3f0-9f05-4051-b794-cd1a2f2f73f1)
 
-<h2>Configure Help Topics/h2>
+<h2>Configure Help Topics</h2>
 
 We'll add the following Help Topics
 - Business Critical Outage
