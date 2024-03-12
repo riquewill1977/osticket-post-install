@@ -116,12 +116,72 @@ Uncheck "Send the agent a password reset email" and "Require password change at 
 
 ![image](https://github.com/riquewill1977/osticket-post-install/assets/139101776/5510a757-026e-40d1-a061-a1108f6021ab)
 
+Click on the "Access" tab and under the Primary Department section,select "System Administrators" from the Departments and "Supreme Admin" from Select Role.
+
+![Screenshot 2024-03-12 132322](https://github.com/riquewill1977/osticket-post-install/assets/139101776/df9e436a-2071-4f24-94ef-829b8fe4eb10)
+
+Next lets add Jane to the "Level II Support" Team we created earlier. Click on the Teams tab and select "Level II Support" from Select Team and click "Create"
+
+![Screenshot 2024-03-12 133206](https://github.com/riquewill1977/osticket-post-install/assets/139101776/a87e9e3c-ed00-4e35-8f9b-2306a88f9f94)
+
+We'll create a secondary Agent following the same steps.
+
+Name: John Doe
+Email Address: John.Doe@osticket.com
+Username: john.doe
+Access > Prmary Department > Support
+Access > Prmary Department > View Only
+Access > Extended Access > Support
+Create. 
+
+<h2>Configure Users (customers)</h2>
+
+In order to create Users we need to be in the Agen Panel. As previously mention to toggle between Admin and Agent you need to click "Agent Panel" on the top left which will switch over to the Agent Panel, but it will display "Admin Panel" once you've switched over.
+
+![Screenshot 2024-03-12 152822](https://github.com/riquewill1977/osticket-post-install/assets/139101776/b57db998-c871-457a-8be1-6829d9c78de1)
+
+Click on the "Users" tab, then "Add User"
+
+![Screenshot 2024-03-12 153006](https://github.com/riquewill1977/osticket-post-install/assets/139101776/91c42d22-2d8e-4448-bea7-16161f949f7f)
+
+We'll add two users by email address. Karen and Ken (add whoever you like as you follow along)
+
+![Screenshot 2024-03-12 153251](https://github.com/riquewill1977/osticket-post-install/assets/139101776/be824e28-ea48-4f07-a42c-3d60e0b5e3d3)
+
+<h2>Configure SLA</h2>
+
+Now lets add the SLA (Service Level Agreement) plans. We'll focus on time in which the help desk Admin expects tickets to be closed
+
+We'll create 3.
+- SEV-A (1 hour, 24/7)
+- SEV-B (4 hours, 24/7)
+- SEV-C (8 hours, business hours)
+
+Go back to the Admin Panel > Manage > SLA
+
+![Screenshot 2024-03-12 154336](https://github.com/riquewill1977/osticket-post-install/assets/139101776/4eacc68b-4c3b-4804-8f1a-342adc4e5957)
+
+We'll add our SLA plans like below. Follow the steps to create the other 2 with the specified hours.
+
+![Screenshot 2024-03-12 155058](https://github.com/riquewill1977/osticket-post-install/assets/139101776/bc8df3f0-9f05-4051-b794-cd1a2f2f73f1)
+
+<h2>Configure Help Topics/h2>
+
+We'll add the following Help Topics
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+
+Admin Panel -> Manage -> Help Topics
+
+Then click on Add New Help Topic
 
 
+![Screenshot 2024-03-12 160639](https://github.com/riquewill1977/osticket-post-install/assets/139101776/b8c6651b-0c47-4ad9-a8c7-2fb02d495a38)
 
+We'll keep all Help Topics basic, just add the name and click "Add Topic" for all 4 help topics.
 
+![Screenshot 2024-03-12 161838](https://github.com/riquewill1977/osticket-post-install/assets/139101776/ec99ee3a-e833-4e91-aa87-b3bc46482e25)
 
-
-
-
-
+In our next <a href="https://github.com/riquewill1977/osticket-lifecycle">tutorial</a>, we'll dive into making tickets and walk through how they work from start to finish.
